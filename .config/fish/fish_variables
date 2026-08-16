@@ -1,3 +1,4 @@
+# vim: ft=fish
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
 SETUVAR VIRTUAL_ENV_DISABLE_PROMPT:true
